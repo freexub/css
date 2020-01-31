@@ -37,3 +37,4 @@ requirements.php
 Vagrantfile
 yii
 yii.bat
+web/cookie/*
